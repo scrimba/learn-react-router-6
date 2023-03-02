@@ -1,13 +1,12 @@
-# Learn React Router 6 with Bob Ziroll
-
+# ⚛️ Learn React Router 6 with Bob Ziroll ⚛️
 
 ![Course teacher Bob Ziroll](https://scrimba.ams3.cdn.digitaloceanspaces.com/assets%2Fcourses%2Fgreactrouter6%2Fgithub2.png)
 
-To follow the course in Scrimba's **interactive code-learning platform**, head to [the Learn React Router 6 page on Scrimba](https://scrimba.com/learn/reactrouter6)!
-
 Hello and welcome! This is the starter code for each scrim in Bob Ziroll's Learn React Router 6 course on Scrimba! ⚛️ 
 
-Learn React Router v6, the most popular routing library for React applications and one of the most downloaded React support libraries ever.
+To follow the course on Scrimba's **interactive code-learning platform**, head to the [Learn React Router 6 page](https://scrimba.com/learn/reactrouter6) on Scrimba!
+
+React Router is the most popular routing library for React applications and one of the most downloaded React support libraries ever.
 
 **In this course, you'll learn:**
 
