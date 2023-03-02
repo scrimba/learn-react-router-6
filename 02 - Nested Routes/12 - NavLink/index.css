@@ -1,0 +1,19 @@
+html, body {
+    margin: 0;
+    padding: 10px;
+}
+
+a {
+    color: #161616;
+    text-decoration: none;
+    padding: 15px
+}
+
+a:hover {
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+nav > a:first-of-type {
+    margin-left: -15px;
+}

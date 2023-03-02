@@ -1,0 +1,10 @@
+html, body {
+    margin: 0;
+    padding: 10px;
+    padding-top: 0;
+    background-color: whitesmoke;
+}
+
+a, button {
+    margin-right: 15px;
+}

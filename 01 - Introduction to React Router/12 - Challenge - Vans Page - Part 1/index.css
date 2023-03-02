@@ -1,0 +1,145 @@
+* {
+    box-sizing: border-box;
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
+    background-color: #FFF7ED;
+    font-family: "Inter", sans-serif;
+}
+
+body::-webkit-scrollbar {
+  display: none;
+}
+
+body {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+header {
+    height: 110px;
+    display: flex;
+    align-items: center;
+    padding-block: 10px;
+}
+
+header .site-logo {
+    color: black;
+    margin-right: auto;
+    text-transform: uppercase;
+    font-weight: 900;
+    font-size: 25px;
+}
+
+header a {
+    text-decoration: none;
+    color: #4D4D4D;
+    font-weight: 600;
+    padding: 5px 20px;
+}
+
+header a:hover {
+    color: #161616;
+    text-decoration: underline;
+}
+
+.link-button {
+    display: inline-block;
+    text-align: center;
+    text-decoration: none;
+    border: none;
+    padding: .75rem 1.375rem;
+    color: initial;
+    font-weight: 700;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: transform .1s ease-in-out;
+}
+
+.link-button:hover {
+    transform: translate(1px, 1px);
+}
+
+/*** HOME PAGE ***/
+.home-container {
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.46), rgba(0, 0, 0, 0.46)), url("./assets/images/home-hero.png") no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    min-height: 350px;
+    color: white;
+    padding: 45px 23px;
+}
+
+.home-container h1 {
+    font-weight: 700;
+    font-size: 2.25rem;
+    line-height: 42px;
+}
+
+.home-container p {
+    line-height: 24px;
+}
+
+.home-container a {
+    display: inline-block;
+    text-align: center;
+    text-decoration: none;
+    background-color: #FF8C38;
+    border: none;
+    width: 100%;
+    margin-top: 27px;
+    padding-block: .75rem;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: transform .1s ease-in-out;
+}
+
+.home-container a:hover {
+    transform: translate(1px, 1px);
+}
+
+
+/*** ABOUT PAGE ***/
+.about-hero-image {
+    max-width: 100%;
+}
+
+.about-page-content {
+    padding-inline: 23px;
+    color: #161616;
+    margin-bottom: 55px;
+}
+
+.about-page-content h1 {
+    line-height: 38px;
+}
+
+.about-page-content p {
+    line-height: 22px;
+}
+
+.about-page-cta {
+    background-color: #FFCC8D;
+    color: #161616;
+    padding-inline: 32px;
+    padding-bottom: 32px;
+    margin-inline: 27px;
+    border-radius: 5px;
+}
+
+.about-page-cta h2 {
+    margin: 0;
+    padding-block: 37px;
+}
+
+.about-page-cta .link-button {
+    background-color: #161616;
+    color: white;
+    border-radius: 10px;
+}
