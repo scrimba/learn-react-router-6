@@ -1,5 +1,5 @@
 {
-  "name": "project",
+  "name": "05---protected-routes---conditionally-send-to-:login-page",
   "dependencies": {
     "react": "18.2.0",
     "react-dom": "18.2.0",

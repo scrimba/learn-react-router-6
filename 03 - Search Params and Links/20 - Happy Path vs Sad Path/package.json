@@ -1,5 +1,5 @@
 {
-  "name": "project",
+  "name": "20---happy-path-vs-sad-path",
   "dependencies": {
     "react": "18.2.0",
     "react-dom": "18.2.0",

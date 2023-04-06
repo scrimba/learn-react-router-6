@@ -1,5 +1,5 @@
 {
-  "name": "project",
+  "name": "08---use-the-loader-data-instead-of-the-useeffect",
   "dependencies": {
     "react": "18.2.0",
     "react-dom": "18.2.0",

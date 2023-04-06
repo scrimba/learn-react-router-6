@@ -1,5 +1,5 @@
 {
-  "name": "project",
+  "name": "18---challenge---conditionally-render-the-back-button-text",
   "dependencies": {
     "react": "18.2.0",
     "react-dom": "18.2.0",

@@ -1,5 +1,5 @@
 {
-  "name": "project",
+  "name": "03---react-router-setup-&-browserrouter",
   "dependencies": {
     "react": "18.2.0",
     "react-dom": "18.2.0"
