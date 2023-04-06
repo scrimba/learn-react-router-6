@@ -16,14 +16,16 @@
     "06 - Deferred Data/*"
   ],
   "dependencies": {
+    "firebase": "^9.19.1",
+    "miragejs": "0.1.46",
     "react": "18.2.0",
     "react-dom": "18.2.0",
-    "react-router-dom": "6.4.3",
-    "miragejs": "0.1.46"
+    "react-icons": "^4.8.0",
+    "react-router-dom": "6.4.3"
   },
   "devDependencies": {
-    "vite": "latest",
-    "@vitejs/plugin-react": "*"
+    "@vitejs/plugin-react": "*",
+    "vite": "latest"
   },
   "scripts": {
     "start": "vite",
