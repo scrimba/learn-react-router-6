@@ -1,5 +1,5 @@
 {
-  "name": "project",
+  "name": "04---filter-the-array-with-the-search-param",
   "dependencies": {
     "react": "18.2.0",
     "react-dom": "18.2.0",

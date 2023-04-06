@@ -1,5 +1,5 @@
 {
-  "name": "project",
+  "name": "12---aside-challenge---move-remaining-fetching-to-loaders---part-1",
   "dependencies": {
     "react": "18.2.0",
     "react-dom": "18.2.0",

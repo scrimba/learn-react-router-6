@@ -1,5 +1,5 @@
 {
-  "name": "project",
+  "name": "16---consume-message-from-search-param-on-login-page",
   "dependencies": {
     "react": "18.2.0",
     "react-dom": "18.2.0",
