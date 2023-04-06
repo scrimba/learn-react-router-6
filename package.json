@@ -1,0 +1,43 @@
+{
+  "name": "@scrimba/learn-react-router-6",
+  "title": "React Router 6 Course",
+  "description": "![Course teacher Bob Ziroll](https://scrimba.ams3.cdn.digitaloceanspaces.com/assets%2Fcourses%2Fgreactrouter6%2Fgithub2.png)",
+  "author": "Bob Ziroll <bob@scrimba.com> (https://twitter.com/bobziroll)",
+  "version": "1.0.0",
+  "private": true,
+  "homepage": "https://github.com/scrimba/learn-react-router-6#readme",
+  "main": "index.js",
+  "workspaces": [
+    "01 - Introduction to React Router/*",
+    "02 - Nested Routes/*",
+    "03 - Search Params and Links/*",
+    "04 - Loaders and Errors/*",
+    "05 - Actions and Protected Routes/*",
+    "06 - Deferred Data/*"
+  ],
+  "dependencies": {
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-router-dom": "6.4.3",
+    "miragejs": "0.1.46"
+  },
+  "devDependencies": {
+    "vite": "latest",
+    "@vitejs/plugin-react": "*"
+  },
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scrimba/learn-react-router-6.git"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scrimba/learn-react-router-6/issues"
+  }
+}
