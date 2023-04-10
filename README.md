@@ -16,9 +16,11 @@ In the version of this course on Scrimba, it's easy for me to add quick updates 
 
 
 ## Setup
-Check out [this video](https://youtu.be/IYZQu_UwlpU) for a walkthrough of the steps to get your project set up on your own machine. Or read below
+Check out this video for a walkthrough of the steps to get your project set up on your own machine.
+[![GitHub Repo Setup Instructions](https://img.youtube.com/vi/IYZQu_UwlpU/0.jpg)](https://www.youtube.com/watch?v=IYZQu_UwlpU)
 
-### Instructions
+
+### Written Instructions
 1. Clone this repo to your own machine
 2. `cd` to the main folder in Terminal
 3. Run `npm install`
