@@ -1,7 +1,7 @@
 import React from "react"
 
 /**
- * Challenge: Wrap the contents of the "van-tile" div in a 
+ * Challenge: Wrap the contents of the "van-title" div in a 
  * Link that sends the user to `/vans/${van-id-here}`.
  */
 
@@ -15,7 +15,7 @@ export default function Vans() {
     }, [])
 
     const vanElements = vans.map(van => (
-        <div key={van.id} className="van-tile">
+        <div key={van.id} className="van-title">
             <img src={van.imageUrl} />
             <div className="van-info">
                 <h3>{van.name}</h3>

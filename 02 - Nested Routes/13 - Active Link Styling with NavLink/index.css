@@ -180,12 +180,12 @@ footer {
     margin-top: 57px;
 }
 
-.van-tile a {
+.van-title a {
     color: #161616;
     text-decoration: none;    
 }
 
-.van-tile img {
+.van-title img {
     max-width: 100%;
     border-radius: 5px;
 }
